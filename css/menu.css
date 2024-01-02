@@ -1,0 +1,134 @@
+body{
+    background-color: cornflowerblue;
+}
+
+.block{
+    width: 600px;
+    height: 700px;
+    background-color: darkslateblue;
+    margin-left: 370px;
+
+}
+h1{
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    font-weight: lighter;
+    font-family: cursive;
+    padding-top: 10px;
+}
+.circl1 img{
+    border-radius: 50%;
+    margin-left: 330px;
+    position: relative;
+    bottom: 40px;
+}
+.circl2 img{
+    border-radius: 50%;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+h2{
+    font-size: 25px;
+    color: white;
+    position: relative;
+    bottom: 540px;
+    margin-left: 70px;
+}
+h3{
+    font-size: 25px;
+    color: white;
+    position: relative;
+    bottom: 330px;
+    margin-left: 350px;
+}
+.ice{
+    position: relative;
+    bottom: 600px;
+    margin-left: 50px;
+   }
+.ice p{
+    color: white;
+    padding: 10px;
+    border-left: 2px solid white;
+
+}
+.ice h4{
+    font-size: 15px;
+    color: white;
+    margin-left: 150px;
+    padding: 7px;
+    position: relative;
+    bottom: 215px;
+    border: 1px solid black;
+    background-color: orangered;
+    width: fit-content;
+    border: none;
+}
+.milk{
+    position: relative;
+    bottom: 750px;
+    margin-left: 340px;
+   }
+.milk p{
+    color: white;
+    padding: 10px;
+    border-left: 2px solid white;
+
+}
+.milk h4{
+    font-size: 15px;
+    color: white;
+    margin-left: 150px;
+    padding: 7px;
+    position: relative;
+    bottom: 215px;
+    border: 1px solid black;
+    background-color: orangered;
+    width: fit-content;
+    border: none;
+}
+h5{
+    font-size: 20px;
+    color: white;
+    position: relative;
+    top: 580px;
+    text-align: center;
+}
+nav{
+    display: inline-flex;
+    width: 600px;
+    height: 50px;
+    background-color: rgb(0,0,0,0.4);
+    margin-left: 620px;
+    position: relative;
+    bottom: 15px;
+    border-radius: 50px;
+}
+nav a{
+    text-decoration: none;
+    font: 15px;
+    color: white;
+    font-weight: bolder;
+    padding-right: 50px;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+nav a:hover{
+    color: yellow;
+
+}
+.logo{
+    font-size: 30px;
+    color: rgb(50, 252, 0);
+    font-family: cursive;
+    text-decoration: none;
+    border: 1px solid black;
+    background-color: rgb(0,0,0,0.4);
+    border-radius: 15px;
+    padding: 13px;
+    border: none;
+    position: relative;
+    top: 26px;
+    left: 5px;
+}

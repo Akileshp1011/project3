@@ -1,0 +1,249 @@
+body{
+    background-color: cornflowerblue;
+}
+.cover{
+    width: 100%;
+    height: 1300px;
+    background: cornflowerblue;
+    position: relative;
+    right: 8px;
+}
+.round{
+    display: inline-flex;
+}
+.round1{
+    width: 150px;
+    height: 150px;
+    background-color: yellow;
+    border-radius: 50%;
+    margin-left: 50px;
+    position: relative;
+    bottom: 50px;
+}
+.round2{
+    width: 200px;
+    height: 200px;
+    background-color: deeppink;
+    border-radius: 50%;
+    margin-left: 180px;
+    position: relative;
+    bottom: 50px;
+
+}
+.round3{
+    margin-top: 90px;
+     position: relative;
+     right: 600px;
+     bottom: 530px;
+}
+.round3 img{
+    margin-top: 65px;
+    margin-left: 110px;
+    border-radius: 50%;
+
+}
+nav{
+    display: inline-flex;
+    width: 600px;
+    height: 50px;
+    background-color: rgb(0,0,0,0.4);
+    margin-left: 620px;
+    margin-top: 30px;
+    border-radius: 50px;
+}
+nav a{
+    text-decoration: none;
+    font: 15px;
+    color: white;
+    font-weight: bolder;
+    padding-right: 50px;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+nav a:hover{
+    color: yellow;
+
+}
+h1,h2{
+    font-size: 80px;
+    margin-left: 700px;
+    margin-top: 80px;
+}
+h1{
+    color: rgb(11, 6, 46);
+}
+h2{
+    color: orangered;
+}
+.circle{
+    display: inline-flex;
+    position: relative;
+    bottom: 300px;
+}
+.circle1{
+    width: 300px;
+    height: 300px;
+    background-color: white;
+    border-radius: 50%;
+    margin-left: 105px;
+}
+.circle2{
+    width: 300px;
+    height: 300px;
+    background-color: white;
+    border-radius: 50%;
+}
+.circle3{
+    width: 300px;
+    height: 300px;
+    background-color: white;
+    border-radius: 50%;
+}
+.stick{
+    margin-top: 40px;
+    margin-left: 95px;
+}
+.stick2{
+    margin-top: 65px;
+    margin-left: 30px;
+}
+.stick3{
+    margin-top: 45px;
+    margin-left: 90px;
+}
+.strawberry{
+    position: relative;
+    bottom: 1200px;
+    left: 1170px;
+    opacity: .3;
+}
+.strawberry2{
+    position: relative;
+    bottom: 920px;
+    left: 930px;
+    opacity: .3;
+}
+.strawberry3{
+    position: relative;
+    bottom: 830px;
+    left: 470px;
+    opacity: .3;
+}
+.new h3,h4,h5{
+    color: white;
+    font-size: 15px;
+    border: 1px solid black;
+    width: fit-content;
+    background-color: red;
+    padding: 10px;
+    display: inline;
+    border: none;
+    border-radius: 15px;
+
+}
+h3{
+    position: relative;
+    bottom: 700px;
+    right: 125px;
+}
+h4{
+    position: relative;
+    bottom: 700px;
+    left: 210px;
+}
+h5{
+    position: relative;
+    bottom: 700px;
+    left: 545px;
+}
+.logo{
+    font-size: 30px;
+    color: rgb(50, 252, 0);
+    font-family: cursive;
+    text-decoration: none;
+    border: 1px solid black;
+    background-color: rgb(0,0,0,0.4);
+    border-radius: 15px;
+    padding: 13px;
+    position: relative;
+    right: 650px;
+    bottom: 1470px;
+    border: none;
+}
+.end{
+    width: 1348px;
+    height: 320px;
+    background-color: rgb(31, 29, 29);
+    position: relative;
+    bottom: 320px;
+}
+h6{
+    display: inline;
+    position: relative;
+    font-size: 20px;
+    color: white;
+    padding: 70px;
+    left: 50px;
+    top: 75px;
+}
+.c{
+    font-size: 20px;
+    color: white;
+    position: relative;
+    padding-left: 600px;
+    bottom: 40px;
+}
+.b{
+    font-size: 20px;
+    color: white;
+    position: relative;
+    padding-left: 357px;
+    top: 30px;
+}
+.a{
+    font-size: 20px;
+    color: white;
+    position: relative;
+    padding-left: 120px;
+    top: 95px;
+}
+.followus a{
+    font-size: 30px;
+    padding: 15px;
+    margin-left: 20px;
+    position: relative;
+    bottom: 150px;
+}
+.fa-facebook{
+    text-align: center;
+    width: 30px;
+    background-color: white;
+    padding: 7px;
+    border-radius: 50%;
+    color: rgb(31, 29, 29);
+    margin-left: 900px;
+}
+
+.fa-instagram{
+    text-align: center;
+    width: 30px;
+    background: white;
+    padding: 7px;
+    border-radius: 50%;
+    color: rgb(31, 29, 29);
+}
+.fa-twitter{
+    background-color: white;
+    padding: 7px;
+    border-radius: 50%;
+    color: rgb(31, 29, 29);
+}
+.d{
+    position: relative;
+    font-size: 30px;
+    color: white;
+    padding-left: 940px;
+    bottom: 110px;
+
+}
+
